@@ -1,1 +1,1 @@
-# coding-project-template
+# React Project for IBM Course 
